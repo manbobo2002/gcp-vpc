@@ -8,4 +8,4 @@ We could access our subnet using private IP
 ![image](https://github.com/manbobo2002/gcp-vpc/blob/master/solution%20diagram.PNG)  
 
 # How to setup:  
-Please visit 
+Please visit https://medium.com/google-cloud/hands-on-vpc-peering-configuration-on-gcp-a6a04d50597d
